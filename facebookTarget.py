@@ -4,9 +4,9 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by M Asim CH      #
-        #    Facebook Contact:     M  Asim          #
-        #    YouTube channel:Asim Pardasi,Asim Extra#                                       
+        #    Facebook BruteForce, by Foyshal Ahamed #
+        #    Facebook Contact:     Foyshal Ahamed   #
+        #    YouTube channel: Foy's Story,Asim Extra#                                       
         #############################################
 
 
@@ -24,7 +24,7 @@ except ModuleNotFoundError:
 time.sleep(0.5)
 user = raw_input('[⚡] Target Username/ID/Email >>?? ')
 time.sleep(0.8)
-wrdlstFileName = raw_input('\n[⚡] Wordlist Type pk.txt,asim.txt >> ')
+wrdlstFileName = raw_input('\n[⚡] Wordlist Type pk.txt,Foyshal.txt >> ')
 try:
     wordlist = open(wrdlstFileName, 'r')
 except FileNotFoundError:
